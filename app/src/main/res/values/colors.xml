@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#C6BCC5BD</color>
+    <color name="black">#FF000000</color>
+<color name="white">#ffffff</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="grey">#C69B9F9B</color>
+    <color name="darkgrey">#928F7A </color>
+
+    <color name="signupColor">#066e8a</color>
+    <color name="gradient">#C2B9AB</color>
+    <color name="Capsulered">#cd594c</color>
+    <color name="capsule_marine">#90C3C9</color>
+
+
+</resources>
